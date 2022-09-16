@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">A passionate System Architect from Türkiye</h3>
 
-- 🌱 I’m currently learning **Linux, AWS, JEnkins, Docker and Kubernetes**
+- 🌱 I’m currently learning **Linux, AWS, Jenkins, Docker and Kubernetes**
 
 - 📫 How to reach me **muratakgul98@gmail.com**
 
